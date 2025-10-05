@@ -1,0 +1,9 @@
+{
+  "name": "MUGSY",
+  "symbol": "MUGSY",
+  "description": "Red Mugsy — The twitchy, witty, unhinged white rabbit clutching a Red Mug.",
+  "image": "https://raw.githubusercontent.com/RedMugsy/mugsy-assets/12c1745c1cf3f03872793da30f73c50f307581c9/Mugsy.png",
+  "extensions": {
+    "website": "https://redmugsy.com"
+  }
+}
